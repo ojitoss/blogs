@@ -19,14 +19,14 @@ with a deprecated dependency),  but you wanna see how shit is)
 So, who i make this blog? Basically i was checked my olds repos because 
 i was bored, and... see some things... isn't only shit code 
 (i expected this), but i really don't expected the things i see,
-hurt so much.
+to be honest, hurt me a bit.
 
 ## 1. Who is this variable?
 ### Why is shit?
 The rest of things i known than was tried seems profesional programmer
 or just i make pettry bad code in this age, but this, genuinily i
 don't get who i try it, serously, it's too pointenless and my only
-theory is think than this line, was necesary to classes can work or
+theory is think than this line of code, was necesary to classes can work or
 can be exported in Node.js, so, who hurt me so much? Basically ahead
 of each class i add a variable called ```global_object```:
 ```js
@@ -39,13 +39,15 @@ necesary to export, especially, for some reason use the Object constructor
 insted of just ```{}```, i tried to use decorators when no even exist
 (currently still not event exist)
 ### How to stop being shit
-Just not use this stupid variable anymore.
+Just not use this stupid variable anymore, also check well the docs
+and undersatade any line of code, because if not understall at all
+can make things like this, adding pointeless boilerplate.
 
 ## 2. Insane errors managment
 ### Why is shit?
 At least i tried manage the errors but for this type of management,
 was better doing nothing, so, context... for some commands of my CLI
-i use filke system (fs) of Node.js, in this momemnt i don't know it why
+i use file system (fs) of Node.js, in this momemnt i don't know it why
 is a promise and old methods use callbacks, so, who is the form i manage
 the errors as professinal:
 ```js
@@ -88,7 +90,7 @@ module.exports = removeManager;
 Void constructor, method than only call a function, definitivily a perfect
 implemented class.
 But don't end here, to make it even more clean, i have a ```export.js``` file
-than export into a object all methods
+than export into a object all methods.
 ```js
 module.exports = {
     initManager: require('./functions/init/global.js'),
@@ -107,7 +109,7 @@ module.exports = {
     searchManager: require('./functions/search/global.js')
  }
 ```
-Yep, still don't end 
+Yep, still don't end.
 ```js
 const fs = require('fs');
 const { initNormal } = require('./functions/init/normal.js');
@@ -129,6 +131,7 @@ const search = new autag.searchManager();
 const inquirer = require('inquirer');
 ```
 ### How to stop being shit
+7
 
 ## 4. if/else managment
 ### Why is shit?
@@ -142,8 +145,12 @@ fs.readFile(`${anweser.file}`, 'utf-8', (error, data) => {
     }
 });
 ```
-I need explain it?
+I need explain it how a ```console.log(data.includes(anweser.text))``` was better?
+Also, te file use a too neceaary template string instaed of just push the
+```anweser.text``` here. Probably had more things like this, but this
+is the most inecesary probably.
 ### How to stop being shit
+This is a pettry obvius bad boolean uses
 
 ## 5. DRY master
 ### Why is shit?
@@ -184,7 +191,7 @@ if (anweser.lang === "es") {
     })
 }
 ```
-This case to
+This case to:
 ```js
 inquirer.prompt([
     {
@@ -236,12 +243,19 @@ translate, even the majory of updates are just this, fixes, even the code
 has variables like "anwesers", keep in like 80% of code
 ### How to stop being shit
 I could be said than just learn english better, but even now, not dominated
-at 100%, currently is undesrtable, but anyways, it's so sure than this blog
+at 100%, currently is undesrtable at least, but anyways, it's so sure than this blog
 had so many errors in my english, so i can't burlarme de mi esta vez.
 
 ## 9.Obessed for some reason
 ### Why is shit?
+Basically the amounts of downlods was to important to my in this age,
+still remember how 3..6 times i checked the npm page to can see the
+downlods, even remember how when i get a the big amount of ~150 downlods, 
+i was in my peak of satisfaction. The problem with this is reduce the quality
+becuase how i was keep my community active (probably 90% of this downlods was
+bots), i realese so many versions in low time
 ### How to stop being shit
+
 
 ## 10. Logo
 ### Why is shit?
