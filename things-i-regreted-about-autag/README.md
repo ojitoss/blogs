@@ -1,36 +1,35 @@
-# Things I Regreted About Autag
+# Things I Regretted About Autag
 
-No one cares Autag (only i know), but anyway,
-Autag is a generator  boilerplate CLI, i make this thing
-like 5 years ago when i started to code, so i uploaded to npm, get
-like _~1000 total downlods in this period_, and _~450 as highest
-weekky downlods_ and ,_~23 versions_, i know, im the next react, although,
-it's fine to was created when i have like one year to start coding, but
-also, it's so probably than the 80% or even more of downloads, aren't
-humans, probably are bots or when i tested because i used the **npx**
-command to test new versions, but it's werid too, because the highest
-weekly downloads was in 2025, and i leave the proyect like 4 years ago,
-so idk if had a some niche peak or jusr in this date, for some reasons (in
-a important packs), many NPM bots, check every packs or a list of
-certain type of packs.
-
+No one cares about Autag (only I know), but anyway,
+Autag is a boilerplate CLI generator. I made this thing
+like 5 years ago when I started to code, so I uploaded it to npm. It got
+like ~1000 total downloads over this period, ~450 as its highest
+weekly downloads, and ~23 versions. I know, I'm the next React. Although
+it's fine for something created when I had only been coding for a year,
+it's also highly probable that 80% or even more of those downloads
+aren't humans. They are probably bots, or just me testing it because I used the **npx**
+command to test new versions. But it's weird too, because the highest
+weekly downloads happened in 2025, and I left the project like 4 years ago.
+So I don't know if it had some niche peak, or if just around that date, for some reason,
+many NPM bots checked every package or a list of a
+certain type of packages.
 
 [Autag NPM Page](https://www.npmjs.com/package/autag)
-(I don't think you wanna install it (not works now for something
-with a deprecated dependency),  but you wanna see how shit is)
+(I don't think you want to install it—it doesn't work now due to a
+deprecated dependency—but you might want to see how shitty it is)
 
-So, who i make this blog? Basically i was checked my olds repos because 
-i was bored, and... see some things... isn't only shit code 
-(i expected this), but i really don't expected the things i see,
-to be honest, hurt me a bit.
+So, why did I make this blog? Basically, I was checking my old repos because 
+I was bored, and... I saw some things... It isn't only shit code 
+(I expected that), but I really didn't expect the things I saw.
+To be honest, it hurt me a bit.
 
 1. [Why is this variable?](1.md)
-2. [Insane error managment](2.md)
-3. [Over enginer](3.md)
-4. [if/else managment](4.md)
+2. [Insane error management](2.md)
+3. [Over-engineering](3.md)
+4. [if/else management](4.md)
 5. [DRY master](5.md)
-6. [This brakes the proyect](6.md)
+6. [This breaks the project](6.md)
 7. [Version controlling](7.md)
-8. [Perfect english](8.md)
-9. [Obssesed for some reason](9.md)
+8. [Perfect English](8.md)
+9. [Obsessed for some reason](9.md)
 10. [Logo](10.md)
