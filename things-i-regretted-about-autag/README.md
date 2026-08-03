@@ -28,6 +28,8 @@ I was bored, and... I saw some things... It isn't only shit code
 (I expected that), but I really didn't expect the things I saw.
 To be honest, it hurt me a bit.
 
+## Index
+
 1. [Why is this variable?](1.md)
 2. [Insane error management](2.md)
 3. [Over-engineering](3.md)
