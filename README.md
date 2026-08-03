@@ -14,9 +14,9 @@ Every blog post has its own isolated folder containing its markdown files and as
 
 ```txt
 .
-├── README.md          # This main directory index
+├── README.md             # This main directory index
 └── [blog name]/
-    ├── README.md      # Main post file (The intro text we fixed)
-    ├── 1.md to 10.md  # Technical deep dives / Sub-sections
-    └── assets/        # Images, logos, and screenshots
+    ├── README.md         # Main post file (The intro text we fixed)
+    ├── [x].md to [y].md  # Technical deep dives / Sub-sections
+    └── assets/           # Images, logos, and screenshots
 ```
