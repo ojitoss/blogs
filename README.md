@@ -3,10 +3,10 @@ This is my personal collection of blogs about my experiencies and opiniones (or 
 
 ## Index
 
-| Blog Post | Description | 
-| :--- | :--- |
-| [Things I Regretted About Autag](./things-i-regretted-about-autag/README.md) | A review of my first CLI, that generarte boilerplate and why it completely broke down 5 years later.
-| [Autag: The Good Parts] | Mentions of things i don't regretted about make this proyect. |
+| Blog Post | Description | State |
+| :--- | :--- | :--- |
+| [Things I Regretted About Autag](./things-i-regretted-about-autag/README.md) | A review of my first CLI, that generarte boilerplate and why it completely broke down 5 years later. | Completed |
+| [Autag: The Good Parts] | Mentions of things i don't regretted about make this proyect. | Work in |
 
 ## Repository Structure
 
