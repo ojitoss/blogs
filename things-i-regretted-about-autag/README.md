@@ -2,9 +2,14 @@
 
 No one cares about Autag (only I know), but anyway,
 Autag is a boilerplate CLI generator. I made this thing
-like 5 years ago when I started to code, so I uploaded it to npm. It got
-like ~1000 total downloads over this period, ~450 as its highest
-weekly downloads, and ~23 versions. I know, I'm the next React. Although
+like 5 years ago when I started to code, so I uploaded it to npm. 
+
+## Stats
+* Total downloads: ~1000
+* Highest downloads peak: ~450
+* Versions: ~23
+
+I know, I'm the next React. Although
 it's fine for something created when I had only been coding for a year,
 it's also highly probable that 80% or even more of those downloads
 aren't humans. They are probably bots, or just me testing it because I used the **npx**
