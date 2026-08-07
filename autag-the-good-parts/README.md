@@ -1,0 +1,2 @@
+# Autag: The Good Parts
+In the last blog ([Things i regretted about autag](./../things-i-regretted-about-autag/README.md)) i made a self-critisism about this package of NPM, but not every thing of it was bad, actually many things was me surprised about make it i'm this age (although are bad maked), this had to good point to although, make this proyect when i had like one year than i was learn to code, but i thought i make it like three years instead one.
