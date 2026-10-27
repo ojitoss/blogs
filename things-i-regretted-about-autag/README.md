@@ -1,31 +1,26 @@
 # Things I Regretted About Autag
 
 No one cares about Autag (only I know), but anyway,
-Autag is a boilerplate CLI generator. I made this thing
-like 5 years ago when I started to code, so I uploaded it to npm. 
+Autag is a CLI that generate boilerplate. I did this thing
+like 5 years ago when I started to code for some reasons that I don't remember exactly what is, but anyway, when I finished it, I just uploaded it to npm. 
 
 ## Stats
 * Total downloads: ~1000
 * Highest downloads peak: ~450
 * Versions: ~23
 
-I know, I'm the next React. Although
-it's fine for something created when I had only been coding for a year,
-it's also highly probable that 80% or even more of those downloads
-aren't humans. They are probably bots, or just me testing it because I used the **npx**
-command to test new versions. But it's weird too, because the highest
-weekly downloads happened in 2025, and I left the project like 4 years ago.
-So I don't know if it had some niche peak, or if just around that date, for some reason,
-many NPM bots checked every package or a list of a
-certain type of packages.
+I know, I'm the next React. Although it's fine for something was created when I had around only one year or six months of experience writing code. 
+Also is  highly likely that 80% or even more of those downloads aren't humans. They are probably bots, or just me testing it because I used the **npx** command to test new versions. But it's weird too, because the highest
+peak of downloads, happened in 2025, and I left the project like 4 years ago. So I don't know if it have some niche peak, or if just about that date happened something that did that
+many NPM bots checked every package or a list of a certain type of packages.
 
 [Autag NPM Page](https://www.npmjs.com/package/autag)
-(I don't think you want to install it—it doesn't work now due to a
-deprecated dependency—but you might want to see how shitty it is)
+(I don't think you want to install it, it doesn't work now due to a
+deprecated dependency, but you might want to see how shitty it is)
 
-So, why did I make this blog? Basically, I was checking my old repos because 
-I was bored, and... I saw some things... It isn't only shit code 
-(I expected that), but I really didn't expect the things I saw.
+So, why did I make this blog? Basically, I was looking my old repos because 
+I was bored, and... I saw some things... It isn't only a shit code 
+(I expected that), but I really didn't expect the things I saw, so I want to share us that weird things.
 To be honest, it hurt me a bit.
 
 ## Table of contents
