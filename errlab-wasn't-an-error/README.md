@@ -2,8 +2,8 @@
 
 Okey, I was talked about Autag NPM package for the last two blogs, so now its time for my seccond NPM package, it's called [Errlab](https://npm.com/errlab), their stats was something like that 
 
-Total downloads: *~200*
-Highest download peak: *~60*
+Total downloads: *~200*  
+Highest download peak: *~60* 
 
 Yep, so much less than my last project in that moment (Autag), I guess this is because two reasons: 
 
